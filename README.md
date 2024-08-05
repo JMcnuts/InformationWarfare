@@ -164,3 +164,17 @@ Electromagnetic Spectrum  (EMS)
 40.Electromagnetic Spectrum  (EMS)
 
 False
+
+Day 3 09222998 06102379
+
+
+1.ACCESS IS GAINED TO TARGETS BY USING CYBERSPACE EXPLOITATION ACTIONS 
+ISR- Cyberspace, C-S&R
+
+2.The 5 enablers for conducting OCO are 
+authority, access, capability, time and intelligence
+
+3.jfhq-Cyber 
+
+
+4.Offensive cyberspace operations are intended to project in and through 
